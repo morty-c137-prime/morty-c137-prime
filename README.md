@@ -1,5 +1,6 @@
 <p align="center">
-  <b>Rick Álvarez</b><br/><br/>
+  <b>Rick Álvarez</b><br /> 
+  Programmer and filmmaker  <br /> <br /> 
   <img src="https://media.giphy.com/media/10RVT8mge0xQwU/giphy.gif"></img>
   <br />
   <br />
