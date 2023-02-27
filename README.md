@@ -3,7 +3,8 @@
 #### Hi, my name is Rick Álvarez 👋🏽
 
 🎓  Kenyon College <br/>
-⭐️  Interests: Film, software, and web development 
+⭐️  Software and web development  
+🎬  Filmmaker
 
 **Let's connect**
 
