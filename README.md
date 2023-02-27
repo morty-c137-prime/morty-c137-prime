@@ -1,16 +1,16 @@
-### Hi there 👋
+[![raulduke.com](https://media.giphy.com/media/10RVT8mge0xQwU/giphy.gif)](https://raulduke.com)
 
-<!--
-**morty-c137-prime/morty-c137-prime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi, my name is Rick Álvarez 👋🏽
 
-Here are some ideas to get you started:
+🎓  Kenyon College <br/>
+⭐️  Interests: Film, software, and web development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's connect**
+
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)][linkedin]
+[![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=vercel&logoColor=white)][website]
+
+[website]: https://raulduke.com/
+[linkedin]: https://www.linkedin.com/in/richardalvarez-/
+[email]: mailto:alvarez1@kenyon.edu
